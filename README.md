@@ -14,4 +14,4 @@
 
 * `git checkout branchName` - make `branchName` the current branch in working directory;
 
-* Need some more git commands;
+* `git checkout -b branchName` - Create branch `branchName` and check it out;
