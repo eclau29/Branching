@@ -14,4 +14,6 @@
 
 * `git checkout branchName` - make `branchName` the current branch in working directory;
 
-* TODO - checkout -b 
+* TODO - checkout -b changed on master
+
+* More stuff on master branch
