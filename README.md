@@ -1,6 +1,9 @@
 ## Git Branching
 
 ### Branching Commands
-* `git status` - List commit status and branch;
 
 * `git branch` - List branches, shows current branch;
+
+* `git branch branchName` - Create branch `branchName`;
+
+* `git checkout branchName` - make `branchName` the current branch in working directory;
